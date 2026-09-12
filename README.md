@@ -90,8 +90,8 @@ Instead of asking beginners to immediately memorize complex syntax, Catalyst let
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BHAVYA1280F&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVYA1280F&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHAVYA1280F&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHAVYA1280F&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ Instead of asking beginners to immediately memorize complex syntax, Catalyst let
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHAVYA1280F&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHAVYA1280F&theme=tokyonight" width="95%"/>
 </p>
 
 ---
