@@ -22,6 +22,7 @@ I enjoy building projects that focus on **making technology easier to understand
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -41,27 +42,20 @@ I enjoy building projects that focus on **making technology easier to understand
 
 ---
 
-## 📌 Featured Project
+## 📊 GitHub Stats
 
-### Catalyst
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+'
+## 💻 Most Used Languages
 
-**Catalyst** is a beginner-focused coding platform designed to bridge the gap between visual/block-based programming and traditional programming languages.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-Instead of forcing beginners to immediately memorize complex syntax, Catalyst allows them to express programming logic using **simple English instructions** and gradually understand how those instructions translate into real code.
+## 🔥 GitHub Streak
 
-### Key Features
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
 
-- 🧩 Learn programming concepts before complex syntax
-- 📝 Write instructions using simple English
-- 🔄 Convert logical instructions into programming code
-- 💻 Generate **Python, Java and C++** implementations
-- 📚 Progressive learning levels
-- ▶️ Step-by-step execution visualization
-- 🔍 Execution traces to understand program flow
-- 🧠 Focus on logic and concepts rather than memorization
-- 🚫 Designed to reduce over-reliance on AI while learning programming
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
----
 
 ## 📊 Currently Learning
 
