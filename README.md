@@ -114,13 +114,13 @@ Instead of asking beginners to immediately memorize complex syntax, Catalyst let
 ## 🧠 Currently Learning
 
 Java & OOP
-      ↓
+      |
 Data Structures & Algorithms
-      ↓
+      |
 Python & Data Analysis
-      ↓
+      |
 Web Development
-      ↓
+      |
 Cybersecurity
 
 ---
