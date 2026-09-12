@@ -90,7 +90,7 @@ Instead of asking beginners to immediately memorize complex syntax, Catalyst let
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BHAVYA1280F&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BHAVYA1280F&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVYA1280F&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -99,12 +99,11 @@ Instead of asking beginners to immediately memorize complex syntax, Catalyst let
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BHAVYA1280F&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=BHAVYA1280F&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHAVYA1280F&theme=tokyo-night&hide_border=true" width="95%"/>
@@ -123,3 +122,5 @@ Python & Data Analysis
 Web Development
       ↓
 Cybersecurity
+
+---
